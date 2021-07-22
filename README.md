@@ -11,5 +11,5 @@ I'm Danylo
 
 
 ### 📫 How to reach me: ..
-<a href=https://t.me/DanyloKuspis/> <img src="images/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg" width="50" height="40">
-<a href=https://www.linkedin.com/in/danylo-kuspis-5ba292121/> <img src="images/49656.png" width="40">
+<a href=https://t.me/DanyloKuspis/> <img src="Images/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg" width="50" height="40">
+<a href=https://www.linkedin.com/in/danylo-kuspis-5ba292121/> <img src="Images/49656.png" width="40">
