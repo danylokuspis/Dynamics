@@ -8,6 +8,10 @@ I'm Danylo
 - 🎪 I'm living in Poland for 5 years 
 - 📖 I'm an Intercompany General Ledger accountant 
 - ⚡ Fun fact: there is nothing funny about me
+- some chages to commit&push to Git
+123
+asfsfasd
+fsafd
 
 
 ### 📫 How to reach me: ..
